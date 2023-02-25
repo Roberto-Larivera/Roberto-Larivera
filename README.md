@@ -20,8 +20,10 @@
  
  <div align="center">
   <h2 align="center">SERVERS</h2>
+ 
+  ![MAMP](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
   
-
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
  </div>
   
  <div align="center">
