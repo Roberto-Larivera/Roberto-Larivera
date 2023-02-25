@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋 , I'm Roberto ~ (Junior Full-Stack Web-Developer)</h1>
+<h1 align="center">Hi 👋 , I'm Roberto</h1>
 
-<h2 align="center">Passionate about Programming Design & Development</h2>
+<h4 align="center">Junior Full-Stack Web-Developer</h4>
+<h4 align="center">Passionate about Programming Design & Development</h4>
 
 <br>
 
@@ -35,6 +36,7 @@
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+  
  </div>
  
  <div align="center">
@@ -87,11 +89,13 @@
   <h2>IDE</h2>
   
   <br>
-  
+    
   ![ATOM](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
   ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+    
+    
 </div>
 
  <div align=center>
