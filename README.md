@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋 , I'm Roberto</h1>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&color=000000&center=true&vCenter=true&width=435&height=100&lines=HI!+%F0%9F%91%8B++;I'm+Roberto+%F0%9F%98%8A;Pleased+to+meet+you!+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div> 
 
 <h4 align="center">Junior Full-Stack Web-Developer</h4>
 <h4 align="center">Passionate about Programming Design & Development</h4>
