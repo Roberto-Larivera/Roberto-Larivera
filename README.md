@@ -17,7 +17,7 @@
   
   <br>
   
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   
  </div>
  
@@ -34,7 +34,7 @@
   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
   
  </div>
@@ -48,6 +48,7 @@
   
   <br>
   
+  ![MAMP](https://img.shields.io/badge/-MAMP-02749C?logo=mamp&logoColor=white&style=for-the-badge)
   ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
   
  </div>
@@ -77,9 +78,9 @@
   ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) 
   ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
   ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
-  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-  ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white) 	
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
  </div>
  
  <div align=center>
@@ -137,3 +138,46 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Roberto-Larivera&icon=5&color=9)](https://visitcount.itsvg.in)
 
+  <br>
+  
+  <h2 align="center">My favorite projects 💻</h2>
+  
+  <br>
+  
+  <table><tr><td valign="top" width="50%">
+
+  
+<div align="center">
+<img width="200" src="https://github.com/Roberto-Larivera/proj-html-vuejs/blob/master/public/site/img-1.png" />
+<a href="https://github.com/YuriDevAT/sos-animals">
+<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto-Larivera&repo=proj-html-vuejs&theme=tokyonight" />
+</a>
+  
+  <br>
+  
+<img width="200" src="https://github.com/Roberto-Larivera/proj-html-vuejs/blob/master/public/site/img-1.png" />
+<a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
+<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto-Larivera&repo=vue-boolzapp&theme=tokyonight" />
+</a>
+</div>
+
+
+</td><td valign="top" width="60%">
+
+
+  
+<div align="center">
+<img width="200" src="https://github.com/Roberto-Larivera/proj-html-vuejs/blob/master/public/site/img-1.png" />
+<a href="https://github.com/YuriDevAT/sos-animals">
+<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto-Larivera&repo=...&theme=tokyonight" />
+</a>
+  
+  <br>
+  
+<img width="200" src="https://github.com/Roberto-Larivera/proj-html-vuejs/blob/master/public/site/img-1.png" />
+<a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
+<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto-Larivera&repo=...&theme=tokyonight" />
+</a>
+</div>
+
+</td></tr></table> 
