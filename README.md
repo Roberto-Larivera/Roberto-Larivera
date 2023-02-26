@@ -2,7 +2,7 @@
 
 <h4 align="center">Junior Full-Stack Web-Developer</h4>
 <h4 align="center">Passionate about Programming Design & Development</h4>
-<h4 align="center">Passionate about Programming Design & Development</h4>
+<h4 align="center">Student in Boolean</h4>
 
 <br>
 
@@ -114,6 +114,7 @@
 
   <br>
 
+  <div align=center>
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Roberto-Larivera&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
@@ -123,11 +124,15 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Roberto-Larivera&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
+  </div>
+  
 ---
 
+<div align="center">
+  
 [![](https://visitcount.itsvg.in/api?id=Roberto-Larivera&icon=5&color=9)](https://visitcount.itsvg.in)
 
-<div align="center">
+
   <h2 align="center">SOCIALS</h2>
 
   <br>
