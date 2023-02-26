@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&color=000000&center=true&vCenter=true&width=435&height=100&lines=HI!+%F0%9F%91%8B++;I'm+Roberto+%F0%9F%98%8A;Pleased+to+meet+you!+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&color=F71567&center=true&vCenter=true&width=435&height=100&lines=HI!+%F0%9F%91%8B++;I'm+Roberto+%F0%9F%98%8A;Pleased+to+meet+you!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div> 
 
@@ -133,12 +133,15 @@
   
 ---
 
+  <div align="center">
+
+
 ![snake gif](https://github.com/Roberto-larivera/snake/blob/output/github-contribution-grid-snake.gif)
 
 
 ---
 
-<div align="center">
+
   
 [![](https://visitcount.itsvg.in/api?id=Roberto-Larivera&icon=5&color=9)](https://visitcount.itsvg.in)
 
