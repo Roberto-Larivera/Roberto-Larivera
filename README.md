@@ -2,6 +2,7 @@
 
 <h4 align="center">Junior Full-Stack Web-Developer</h4>
 <h4 align="center">Passionate about Programming Design & Development</h4>
+<h4 align="center">Passionate about Programming Design & Development</h4>
 
 <br>
 
@@ -122,6 +123,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Roberto-Larivera&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
+---
+
+[![](https://visitcount.itsvg.in/api?id=Roberto-Larivera&icon=5&color=9)](https://visitcount.itsvg.in)
+
 <div align="center">
   <h2 align="center">SOCIALS</h2>
 
@@ -136,7 +141,7 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Roberto-Larivera&icon=5&color=9)](https://visitcount.itsvg.in)
+
 
   <br>
   
@@ -148,36 +153,30 @@
 
   
 <div align="center">
-<img width="200" src="https://github.com/Roberto-Larivera/proj-html-vuejs/blob/master/public/site/img-1.png" />
-<a href="https://github.com/YuriDevAT/sos-animals">
-<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto-Larivera&repo=proj-html-vuejs&theme=tokyonight" />
-</a>
   
-  <br>
+ <a href="https://github.com/Roberto-Larivera/proj-html-vuejs">
+   
+<img width="100%" src="https://github.com/Roberto-Larivera/proj-html-vuejs/blob/master/public/site/img-1.png" />
   
-<img width="200" src="https://github.com/Roberto-Larivera/proj-html-vuejs/blob/master/public/site/img-1.png" />
-<a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
-<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto-Larivera&repo=vue-boolzapp&theme=tokyonight" />
-</a>
-</div>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Roberto-Larivera&repo=proj-html-vuejs&theme=tokyonight)](https://github.com/Roberto-Larivera/proj-html-vuejs)
+   
+  </a>
 
+  </div>
 
-</td><td valign="top" width="60%">
+</td><td valign="top" width="50%">
 
-
-  
 <div align="center">
-<img width="200" src="https://github.com/Roberto-Larivera/proj-html-vuejs/blob/master/public/site/img-1.png" />
-<a href="https://github.com/YuriDevAT/sos-animals">
-<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto-Larivera&repo=...&theme=tokyonight" />
-</a>
   
-  <br>
+ <a href="https://github.com/Roberto-Larivera/vue-boolzapp">
+   
+<img width="100%" src="https://github.com/Roberto-Larivera/vue-boolzapp/blob/main/public/img-1.png" />
   
-<img width="200" src="https://github.com/Roberto-Larivera/proj-html-vuejs/blob/master/public/site/img-1.png" />
-<a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
-<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto-Larivera&repo=...&theme=tokyonight" />
-</a>
-</div>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Roberto-Larivera&repo=vue-boolzapp&theme=tokyonight)](https://github.com/Roberto-Larivera/vue-boolzapp)
+   
+  </a>
+
+  </div>
+
 
 </td></tr></table> 
