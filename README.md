@@ -150,6 +150,11 @@
 
 
   <br>
+  <div align="center">
+  
+  <img width="50%" src="https://github.com/Roberto-Larivera/Roberto-Larivera/blob/main/gif/Coder.gif" />
+  
+  <br>  <br>
   
   <h2 align="center">My favorite projects 💻</h2>
   
@@ -157,8 +162,7 @@
   
   <table><tr><td valign="top" width="50%">
 
-  
-<div align="center">
+ 
   
  <a href="https://github.com/Roberto-Larivera/proj-html-vuejs">
    
