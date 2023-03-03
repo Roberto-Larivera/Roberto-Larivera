@@ -14,7 +14,7 @@
 
  
     
-  <h2 align="center">MY SKILLS</h2>
+  <h2 align="center"> ⭐️ My Skills</h2>
   
   <br>
   
@@ -82,7 +82,7 @@
   
   
 
-# 📊 GitHub Stats:
+  <h2 align=center> 📊 GitHub Stats </h2>
 
 <table><tr><td  align="center" width="50%">
 
@@ -97,7 +97,8 @@
 
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=Roberto-Larivera&theme=vue-dark&hide_border=true)-->
 
-## 🏆 GitHub Trophies
+  <h2 align=center> 🏆 GitHub Trophies </h2>
+  
 ![](https://github-profile-trophy.vercel.app/?username=Roberto-Larivera&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
@@ -109,13 +110,13 @@
   <div align="center">
   
   
-  <h2 align="center">My favorite projects 💻</h2>
+  <h2 align="center"> ❤️ My Favorite Projects </h2>
   
   <br>
   
   <table><tr><td valign="top" width="50%">
 
- 
+ <div align="center">
   
  <a href="https://github.com/Roberto-Larivera/proj-html-vuejs">
    
