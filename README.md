@@ -63,7 +63,7 @@
   [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@rlarivera) 
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@robylariv) 
   
-  [![](https://visitcount.itsvg.in/api?id=Roberto-Larivera&icon=5&color=9)](https://visitcount.itsvg.in)
+  <!-- [![](https://visitcount.itsvg.in/api?id=Roberto-Larivera&icon=5&color=9)](https://visitcount.itsvg.in) -->
   
  </div>
  
