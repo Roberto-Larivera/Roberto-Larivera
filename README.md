@@ -6,7 +6,6 @@
 
 <h4 align="center">Junior Full-Stack Web-Developer</h4>
 <h4 align="center">Passionate about Programming Design & Development</h4>
-<h4 align="center">Student in Boolean</h4>
 
 <br>
 
